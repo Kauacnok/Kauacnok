@@ -15,6 +15,7 @@
   <img align="center" alt="Kauã-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Kauã-Next" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Kauã-Tailwindcss" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="Kauã-Sass" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Kauã-Prisma" height="80" width="80" src="https://cdn.cdnlogo.com/logos/p/25/prisma.svg" />
   <img align="center" alt="Kauã-Graphql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 </div>
