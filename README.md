@@ -1,4 +1,4 @@
-## Olá! eu sou o Kauã um estudante entusiasta da área de tecnologia 👋
+## Olá! eu sou o Kauã um estudante entusiasta da área de tecnologia, desenvolvedor do mundo web front-end e conhecedor do mundo do back-end 👋
 
 <div align="center">
   <a href="https://github.com/kauacnok">
@@ -18,6 +18,7 @@
   <img align="center" alt="Kauã-Sass" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Kauã-Prisma" height="80" width="80" src="https://cdn.cdnlogo.com/logos/p/25/prisma.svg" />
   <img align="center" alt="Kauã-Graphql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+  <img align="center" alt="Kauã-NodeJs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
   
 ##
