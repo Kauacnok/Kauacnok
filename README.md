@@ -7,18 +7,18 @@
 </div>
 <div style="display: inline_block"><br>
   <h3>Linguagens/Bibliotecas que eu utilizo:</h3>
-  <img align="center" alt="Kauã-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kauã-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kauã-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kauã-Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="JavaScript" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="HTML 5" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="CSS 3" height="25" src="https://img.shields.io/badge/JavaScript-FCD34D?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Typescript" height="25" src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white">
   <hr>
-  <img align="center" alt="Kauã-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Kauã-Next" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Kauã-Tailwindcss" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img align="center" alt="Kauã-Sass" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Kauã-Prisma" height="80" width="80" src="https://cdn.cdnlogo.com/logos/p/25/prisma.svg" />
-  <img align="center" alt="Kauã-Graphql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-  <img align="center" alt="Kauã-NodeJs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="React" height="25" src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="Next" height="25" src="https://img.shields.io/badge/Next-047857?style=for-the-badge&logo=Next&logoColor=white">
+  <img align="center" alt="Tailwindcss" height="25" src="https://img.shields.io/badge/Tailwindcss-2563EB?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img align="center" alt="Sass" height="25" src="https://img.shields.io/badge/Sass-F87171?style=for-the-badge&logo=Sass&logoColor=white">
+  <img align="center" alt="Prisma" height="25" src="https://img.shields.io/badge/Prisma-1F2937?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img align="center" alt="Graphql" height="25" src="https://img.shields.io/badge/Graphql-818CF8?style=for-the-badge&logo=Graphql&logoColor=white">
+  <img align="center" alt="Node Js" height="25" src="https://img.shields.io/badge/NodeJs-059669?style=for-the-badge&logo=NodeJs&logoColor=white">
 </div>
   
 ##
