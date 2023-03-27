@@ -10,15 +10,16 @@
   <img align="center" alt="JavaScript" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="HTML 5" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="CSS 3" height="25" src="https://img.shields.io/badge/JavaScript-FCD34D?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Typescript" height="25" src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Typescript" height="25" src="https://img.shields.io/badge/TypeScript-60A5FA?style=for-the-badge&logo=typescript&logoColor=white">
   <hr>
-  <img align="center" alt="React" height="25" src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="React" height="25" src="https://img.shields.io/badge/React-3B82F6?style=for-the-badge&logo=react&logoColor=white">
   <img align="center" alt="Next" height="25" src="https://img.shields.io/badge/Next-047857?style=for-the-badge&logo=Next&logoColor=white">
   <img align="center" alt="Tailwindcss" height="25" src="https://img.shields.io/badge/Tailwindcss-2563EB?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img align="center" alt="Sass" height="25" src="https://img.shields.io/badge/Sass-F87171?style=for-the-badge&logo=Sass&logoColor=white">
   <img align="center" alt="Prisma" height="25" src="https://img.shields.io/badge/Prisma-1F2937?style=for-the-badge&logo=Prisma&logoColor=white">
   <img align="center" alt="Graphql" height="25" src="https://img.shields.io/badge/Graphql-818CF8?style=for-the-badge&logo=Graphql&logoColor=white">
-  <img align="center" alt="Node Js" height="25" src="https://img.shields.io/badge/NodeJs-059669?style=for-the-badge&logo=NodeJs&logoColor=white">
+  <img align="center" alt="Node Js" height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Postgresql" height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
   
 ##
