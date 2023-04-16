@@ -13,7 +13,8 @@
   <img align="center" alt="Typescript" height="25" src="https://img.shields.io/badge/TypeScript-60A5FA?style=for-the-badge&logo=typescript&logoColor=white">
   <hr>
   <img align="center" alt="React" height="25" src="https://img.shields.io/badge/React-3B82F6?style=for-the-badge&logo=react&logoColor=white">
-  <img align="center" alt="Next" height="25" src="https://img.shields.io/badge/Next-047857?style=for-the-badge&logo=Next&logoColor=white">
+  <img align="center" alt="Angular" height="25" src="https://img.shields.io/badge/Angular-DC2626?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Next" height="25" src="https://img.shields.io/badge/Next-047857?style=for-the-badge&logo=next&logoColor=white">
   <img align="center" alt="Tailwindcss" height="25" src="https://img.shields.io/badge/Tailwindcss-2563EB?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img align="center" alt="Sass" height="25" src="https://img.shields.io/badge/Sass-F87171?style=for-the-badge&logo=Sass&logoColor=white">
   <img align="center" alt="Prisma" height="25" src="https://img.shields.io/badge/Prisma-1F2937?style=for-the-badge&logo=Prisma&logoColor=white">
