@@ -20,6 +20,7 @@
   <img align="center" alt="Prisma" height="25" src="https://img.shields.io/badge/Prisma-1F2937?style=for-the-badge&logo=Prisma&logoColor=white">
   <img align="center" alt="Graphql" height="25" src="https://img.shields.io/badge/Graphql-818CF8?style=for-the-badge&logo=Graphql&logoColor=white">
   <img align="center" alt="Node Js" height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Jest" height="25" src="https://img.shields.io/badge/Jest-EA580C?style=for-the-badge&logo=Jest&logoColor=white">
   <img align="center" alt="Postgresql" height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Stripe" height="25" src="https://img.shields.io/badge/Stripe-4F46E5?style=for-the-badge&logo=Stripe&logoColor=white">
 </div>
