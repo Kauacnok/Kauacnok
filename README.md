@@ -13,6 +13,7 @@
   <img align="center" alt="Typescript" height="25" src="https://img.shields.io/badge/TypeScript-60A5FA?style=for-the-badge&logo=typescript&logoColor=white">
   <hr>
   <img align="center" alt="React" height="25" src="https://img.shields.io/badge/React-3B82F6?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="Vue" height="25" src="https://img.shields.io/badge/Vue-34D399?style=for-the-badge&logo=vue&logoColor=white">
   <img align="center" alt="Angular" height="25" src="https://img.shields.io/badge/Angular-DC2626?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Next" height="25" src="https://img.shields.io/badge/Next-047857?style=for-the-badge&logo=next&logoColor=white">
   <img align="center" alt="Tailwindcss" height="25" src="https://img.shields.io/badge/Tailwindcss-2563EB?style=for-the-badge&logo=tailwindcss&logoColor=white">
