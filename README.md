@@ -14,6 +14,7 @@
   <hr>
   <img align="center" alt="React" height="25" src="https://img.shields.io/badge/React-3B82F6?style=for-the-badge&logo=react&logoColor=white">
   <img align="center" alt="Vue" height="25" src="https://img.shields.io/badge/Vue-34D399?style=for-the-badge&logo=vue&logoColor=white">
+  <img align="center" alt="Svelte" height="25" src="https://img.shields.io/badge/Svelte-ea580c?style=for-the-badge&logo=svelte&logoColor=white">
   <img align="center" alt="Angular" height="25" src="https://img.shields.io/badge/Angular-DC2626?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Next" height="25" src="https://img.shields.io/badge/Next-047857?style=for-the-badge&logo=next&logoColor=white">
   <img align="center" alt="Tailwindcss" height="25" src="https://img.shields.io/badge/Tailwindcss-2563EB?style=for-the-badge&logo=tailwindcss&logoColor=white">
